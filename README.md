@@ -1,0 +1,2 @@
+# Automatic-Water-Pump-Controller
+To improve the Sustainability of available water resource ,We Implemented a basic design of Automatic Water Pump Controller to monitor and control the levels of liquid in the Tank .The System automatically switches the pump on and off according to the lower and upper threshold levels thereby saving us from overspilling of water and also insufficient water availability
